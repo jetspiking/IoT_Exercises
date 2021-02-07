@@ -8,9 +8,15 @@ All exercises have been programmed in Visual Studio Code with the PlatformIO plu
 **Project Description**  
 This project applies the FSM design pattern in combination with two traffic lights. These lights can switch states, depending on a button press or timer. 
 
-**Hardware Overview**
+The following states have been implemented:
+| State | Transitions To State --> | Cause Of Transition | 
+| :---: | :---: | :---: |
+| Out Of Order | Red | Boot |
+| Red | Green | Button press |
+| Green | Orange | Button press |  
+| Orange | Red | Delay | 
 
-*Hardware Summary*
+**Hardware Overview**
 | Parts | Amount | Description |
 | :---: | :---: | :---: |
 | ESP32 | 1 | Board | 
