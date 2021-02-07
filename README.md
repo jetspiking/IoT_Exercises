@@ -52,4 +52,4 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
-
+# Following Project
