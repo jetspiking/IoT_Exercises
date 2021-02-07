@@ -10,7 +10,8 @@ This project applies the FSM design pattern in combination with two (mini) traff
 
 **Transitions**  
 
-The following states and transitions have been implemented for each traffic light:
+*The following states and transitions have been implemented for each traffic light*
+<br>
 | State | Transitions To State | Cause Of Transition | 
 | :---: | :---: | :---: |
 | Out Of Order | Red | Boot |
@@ -21,6 +22,7 @@ The following states and transitions have been implemented for each traffic ligh
 **Hardware Overview**
 
 *List*
+<br>
 | Parts | Amount | Description |
 | :---: | :---: | :---: |
 | ESP32 | 1 | Board | 
@@ -30,7 +32,7 @@ The following states and transitions have been implemented for each traffic ligh
 | Tactile button | 2x | One for each traffic light | 
 
 *Pins*
-<br></br>
+<br>
 The following digital pins have been connected from the ESP32 to LED and buttons: 
 | Digital Pin | Connected | 
 | :---: | :---: |
@@ -44,6 +46,7 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 | TrafficLight 2 Button | 23 | 
 
 *Scheme*
+<br>
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
 
