@@ -9,7 +9,7 @@ All exercises have been programmed in Visual Studio Code with the PlatformIO plu
 This project applies the FSM design pattern in combination with two traffic lights. These lights can switch states, depending on a button press or timer. 
 
 The following states have been implemented:
-| State | Transitions To State --> | Cause Of Transition | 
+| State | Transitions To State | Cause Of Transition | 
 | :---: | :---: | :---: |
 | Out Of Order | Red | Boot |
 | Red | Green | Button press |
