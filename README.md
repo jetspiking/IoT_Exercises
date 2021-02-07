@@ -27,7 +27,7 @@ The following states and transitions have been implemented for each traffic ligh
 | Tactile button | 2x | One for each traffic light | 
 
 **Hardware Scheme**
-The following hardware scheme has been followed. For the exact pin connections, please check the main.cpp file.
+The following digital pins have been connected from the ESP32 to LED and buttons: 
 | Digital Pin | Connected | 
 | :---: | :---: |
 | TrafficLight 1 Red LED | 18 |
@@ -39,6 +39,7 @@ The following hardware scheme has been followed. For the exact pin connections, 
 | TrafficLight 2 Green LED | 25 | 
 | TrafficLight 2 Button | 23 | 
 
+Hardware scheme:
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
 
