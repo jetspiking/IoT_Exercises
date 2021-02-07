@@ -5,11 +5,10 @@ All exercises have been programmed in Visual Studio Code with the PlatformIO plu
 
 # Finite State Machine
 **Project Overview**
+This project applies the FSM design pattern in combination with two (mini) traffic lights. These lights can switch states, depending on a button press or timer. 
 ![TrafficLight](https://raw.githubusercontent.com/jetspiking/IoT_Exercises/main/FiniteStateMachine_TrafficLight/TrafficLightOverview.jpg)
 
-**Project Description**  
-This project applies the FSM design pattern in combination with two (mini) traffic lights. These lights can switch states, depending on a button press or timer. 
-
+**Transitions**  
 The following states and transitions have been implemented for each traffic light:
 | State | Transitions To State | Cause Of Transition | 
 | :---: | :---: | :---: |
