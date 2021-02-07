@@ -19,6 +19,7 @@ The following states and transitions have been implemented for each traffic ligh
 
 **Hardware Overview**
 The following parts have been used, alongside a few breadboards and jumper wires.
+<br></br>
 | Parts | Amount | Description |
 | :---: | :---: | :---: |
 | ESP32 | 1 | Board | 
