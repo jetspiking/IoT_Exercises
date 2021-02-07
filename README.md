@@ -27,6 +27,7 @@ The following states and transitions have been implemented for each traffic ligh
 | Tactile button | 2x | One for each traffic light | 
 
 **Hardware Scheme**
+The following hardware scheme has been followed. For the exact pin connections, please check the main.cpp file.   
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
 
