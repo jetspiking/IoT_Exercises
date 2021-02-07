@@ -30,6 +30,7 @@ The following states and transitions have been implemented for each traffic ligh
 | Tactile button | 2x | One for each traffic light | 
 
 *Pins*
+<br></br>
 The following digital pins have been connected from the ESP32 to LED and buttons: 
 | Digital Pin | Connected | 
 | :---: | :---: |
