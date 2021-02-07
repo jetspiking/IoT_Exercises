@@ -4,6 +4,8 @@ This course has a mixed bag of example projects for the IoT-Avans-Course. The co
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
 # Finite State Machine
+**Project Overview**
+![TrafficLight](https://raw.githubusercontent.com/jetspiking/IoT_Exercises/main/FiniteStateMachine_TrafficLight/TrafficLightOverview.jpg)
 
 **Project Description**  
 This project applies the FSM design pattern in combination with two (mini) traffic lights. These lights can switch states, depending on a button press or timer. 
@@ -25,5 +27,5 @@ The following states and transitions have been implemented for each traffic ligh
 | Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED | 2x | Three for each traffic light |
 | Tactile button | 2x | One for each traffic light | 
 
-*Hardware Connections* 
+
 
