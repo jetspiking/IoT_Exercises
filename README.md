@@ -29,7 +29,7 @@ The following parts have been used, alongside a few breadboards and jumper wires
 | Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED | 2x | Three for each traffic light |
 | Tactile button | 2x | One for each traffic light | 
 
-
+<br>
 The following digital pins have been connected from the ESP32 to LED and buttons. 
 
 | Digital Pin | Connected | 
