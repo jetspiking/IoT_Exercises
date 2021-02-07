@@ -43,8 +43,9 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 | TrafficLight 2 Green LED | 25 | 
 | TrafficLight 2 Button | 23 | 
 
-<br>
+
 The hardware setup looks like this.
+
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
 
