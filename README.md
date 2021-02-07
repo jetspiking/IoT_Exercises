@@ -37,7 +37,7 @@ The following parts have been used, alongside a few breadboards and jumper wires
 
 The following digital pins have been connected from the ESP32 to LED and buttons. 
 
-| Digital Pin | Connected | 
+| Hardware | Digital Pin | 
 | :---: | :---: |
 | TrafficLight 1 Red LED | 18 |
 | TrafficLight 1 Orange LED | 19 | 
