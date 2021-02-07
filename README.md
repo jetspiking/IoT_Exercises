@@ -10,4 +10,4 @@ Implementation of the FSM design pattern.
 
 **Hardware Overview**
 
-* *Hardware Connections
+**Hardware Connections
