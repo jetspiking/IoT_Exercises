@@ -3,10 +3,10 @@ This course has a mixed bag of example projects for the IoT-Avans-Course. The co
 
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
-# Finite State Machine TrafficLight
+# Finite State Machine
 
 **Project Description**  
-This project applies the FSM design pattern in combination with two traffic lights. These lights can switch states, depending on a button press or timer. 
+This project applies the FSM design pattern in combination with two (mini) traffic lights. These lights can switch states, depending on a button press or timer. 
 
 The following states and transitions have been implemented for each traffic light:
 | State | Transitions To State | Cause Of Transition | 
