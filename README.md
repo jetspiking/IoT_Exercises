@@ -1,7 +1,7 @@
 # IoT_Exercises
-All exercises have been programmed using the language C++, in Visual Studio Code with the PlatformIO plugin. 
+All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
-# F(inite)S(tate)M(achine) TrafficLight
+# Finite State Machine TrafficLight
 
 **Description**  
 Implementation of the FSM pattern.
