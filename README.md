@@ -4,12 +4,16 @@ This course has a mixed bag of example projects for the IoT-Avans-Course. The co
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
 # Finite State Machine
+
 **Project Overview**
+
 This project applies the FSM design pattern in combination with two (mini) traffic lights. These lights can switch states, depending on a button press or timer. 
 ![TrafficLight](https://raw.githubusercontent.com/jetspiking/IoT_Exercises/main/FiniteStateMachine_TrafficLight/TrafficLightOverview.jpg)
 
 **Transitions**  
-The following states and transitions have been implemented for each traffic light
+
+The following states and transitions have been implemented for each traffic light.
+
 | State | Transitions To State | Cause Of Transition | 
 | :---: | :---: | :---: |
 | Out Of Order | Red | Boot |
@@ -18,8 +22,9 @@ The following states and transitions have been implemented for each traffic ligh
 | Orange | Red | Delay | 
 
 **Hardware Overview**
+
 The following parts have been used, alongside a few breadboards and jumper wires.
-<br></br>
+
 | Parts | Amount | Description |
 | :---: | :---: | :---: |
 | ESP32 | 1 | Board | 
@@ -28,7 +33,6 @@ The following parts have been used, alongside a few breadboards and jumper wires
 | Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED | 2x | Three for each traffic light |
 | Tactile button | 2x | One for each traffic light | 
 
-<br></br>
 The following digital pins have been connected from the ESP32 to LED and buttons. 
 
 | Digital Pin | Connected | 
@@ -42,7 +46,6 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 | TrafficLight 2 Green LED | 25 | 
 | TrafficLight 2 Button | 23 | 
 
-<br></br>
 The hardware setup looks like this.
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
