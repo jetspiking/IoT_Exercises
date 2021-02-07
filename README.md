@@ -11,14 +11,13 @@ This project applies the FSM design pattern in combination with two traffic ligh
 **Hardware Overview**
 
 *Hardware Summary*
-* ESP32                                                     | Board
-* 10K Ohm resistor                                          | 2x (one for each tactile button)
-* 100 Ohm resistor                                          | 6x (one for each LED) 
-* Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED       | 2x (three for each traffic light)
-* Tactile button                                            | 2x (one for each traffic light)
-
-* Breadboard
-* Jumper wires 
+| Parts | Amount | Description |
+| :---: | :---: | :---: |
+| ESP32 | 1 | Board | 
+| 10K Ohm resistor | 2x | One for each tactile button | 
+| 100 Ohm resistor | 6x | One for each LED | 
+| Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED | 2x | Three for each traffic light |
+| Tactile button | 2x | One for each traffic light | 
 
 *Hardware Connections* 
 
