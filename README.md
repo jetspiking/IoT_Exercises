@@ -21,7 +21,7 @@ The following states and transitions have been implemented for each traffic ligh
 | Green | Orange | Button press |  
 | Orange | Red | Delay | 
 
-**Hardware Overview**
+**Parts List**
 
 The following parts have been used, alongside a few breadboards and jumper wires.
 
@@ -32,6 +32,8 @@ The following parts have been used, alongside a few breadboards and jumper wires
 | 100 Ohm resistor | 6x | One for each LED | 
 | Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED | 2x | Three for each traffic light |
 | Tactile button | 2x | One for each traffic light | 
+
+**Digital Pins**
 
 The following digital pins have been connected from the ESP32 to LED and buttons. 
 
@@ -45,6 +47,8 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 | TrafficLight 2 Orange LED | 32 | 
 | TrafficLight 2 Green LED | 25 | 
 | TrafficLight 2 Button | 23 | 
+
+**Hardware Setup**
 
 The hardware setup looks like this.
 ![Hardware Scheme](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
