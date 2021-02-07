@@ -6,8 +6,19 @@ All exercises have been programmed in Visual Studio Code with the PlatformIO plu
 # Finite State Machine TrafficLight
 
 **Project Description**  
-Implementation of the FSM design pattern.
+This project applies the FSM design pattern in combination with two traffic lights. These lights can switch states, depending on a button press or timer. 
 
 **Hardware Overview**
 
-**Hardware Connections
+*Hardware Summary*
+* ESP32                                                     | Board
+* 10K Ohm resistor                                          | 2x (one for each tactile button)
+* 100 Ohm resistor                                          | 6x (one for each LED) 
+* Red 1.8 mm LED, Orange 1.8 mm LED, Green 1.8 mm LED       | 2x (three for each traffic light)
+* Tactile button                                            | 2x (one for each traffic light)
+
+* Breadboard
+* Jumper wires 
+
+*Hardware Connections* 
+
