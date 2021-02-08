@@ -3,7 +3,7 @@ This course has a mixed bag of example projects for the IoT-Avans-Course. The co
 
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
-# 🄵🄸🄽🄸🅃🄴 🅂🅃🄰🅃🄴 🄼🄰🄲🄷🄸🄽🄴
+# 🅃🅁🄰🄵🄵🄸🄲 🄻🄸🄶🄷🅃🅂
 
 **Project Overview**
 
@@ -52,4 +52,14 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 ![HardwareSchematics](https://github.com/jetspiking/IoT_Exercises/blob/main/FiniteStateMachine_TrafficLight/TrafficLightScheme.png?raw=true)
 
-# Following Project
+# 🄳🄸🅂🄲🄾 🄳🄰🄽🄲🄴🅁
+
+**Project Overview** 
+
+**Transitions**
+
+**Parts List**
+
+**Digital Pins**
+
+**Hardware Schematics**
