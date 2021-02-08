@@ -78,7 +78,7 @@ The following parts have been used, alongside a few breadboards and jumper wires
 | :---: | :---: | :---: |
 | ESP32 | 1 | Board | 
 | 100 Ohm resistor | 6x | One for each LED | 
-| Red 1.8 mm LED, Purple 1.8 mm LED, Lightblue 1.8 mm LED, Green 1.8 mm LED, Yellow 1.8 mm LED, Darkblue 1.8 mm LED | 1x | Lights for all the effects |
+| White 1.8 mm LED, Pink 1.8 mm LED, Red 1.8 mm LED, Purple 1.8 mm LED, Lightblue 1.8 mm LED, Green 1.8 mm LED, Yellow 1.8 mm LED, Darkblue 1.8 mm LED | 1x | Lights for all the effects |
 
 **Digital Pins**
 
@@ -86,6 +86,8 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 | Hardware | Digital Pin | 
 | :---: | :---: |
+| 1 White LED | ?? |
+| 1 Pink LED | ?? |
 | 1 Red LED | ?? |
 | 1 Purple LED | ?? | 
 | 1 LightBlue LED | ?? |
