@@ -3,7 +3,7 @@ This course has a mixed bag of example projects for the IoT-Avans-Course. The co
 
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
-# Finite State Machine
+# 🄵🄸🄽🄸🅃🄴 🅂🅃🄰🅃🄴 🄼🄰🄲🄷🄸🄽🄴
 
 **Project Overview**
 
