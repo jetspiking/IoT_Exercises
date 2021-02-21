@@ -1,5 +1,5 @@
 # IoT Exercises repository description
-This course has a mixed bag of example projects for the IoT-Avans-Course. The course starts with a relatively simple introduction with different programming exercises. The Espressif ESP32 Dev Module has been used for the wiring.   
+This course has a mixed bag of example projects for the IoT-Avans-Course. The course starts with a relatively simple introduction with different programming exercises. The Espressif ESP32 Dev Module has been used for the different exercises.   
 
 All exercises have been programmed in Visual Studio Code with the PlatformIO plugin.  
 
