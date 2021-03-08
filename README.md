@@ -98,3 +98,5 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 | 1 Pink LED | 23 |
 
 **Hardware Schematics**
+
+![DiscoDancer](https://github.com/jetspiking/IoT_Exercises/blob/main/DiscoDancer/DiscoDancerSchematics.png?raw=true)
