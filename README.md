@@ -56,7 +56,7 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 **Project Overview** 
 
-![Disco Dancer](https://github.com/jetspiking/IoT_Exercises/blob/main/DiscoDancer/DiscoDancer.png)
+![Disco Dancer](https://github.com/jetspiking/IoT_Exercises/blob/main/DiscoDancer/DiscoDancer.png | width=50)
 
 **Transitions**
 
