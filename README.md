@@ -88,13 +88,13 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 | Hardware | Digital Pin | 
 | :---: | :---: |
-| 1 White LED | ?? |
-| 1 Pink LED | ?? |
-| 1 Red LED | ?? |
-| 1 Purple LED | ?? | 
-| 1 LightBlue LED | ?? |
-| 1 Green LED | ?? |
-| 1 Yellow LED | ?? |
-| 1 DarkBlue LED | ?? |
+| 1 Blue LED | 15 |
+| 1 Red LED | 4 |
+| 1 Green LED | 5 |
+| 1 LightBlue LED | 18 | 
+| 1 Pink LED | 19 |
+| 1 Orange LED | 21 |
+| 1 Red LED | 22 |
+| 1 Pink LED | 23 |
 
 **Hardware Schematics**
