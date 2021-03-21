@@ -107,9 +107,11 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 
 This project interfaces two Zigbee (XBEE) modules for communication purposes between hardware setups (multiple ESP's, for example).
 
-**AT-modus**
+**AT-mode**
 
 To test the two XBEE-modules an ESP32 has been used, combined with a notebook with XCTU installed. The XBEE-module connected to the notebook was configured as End-device, while the module connected to the ESP32 was set to function as coordinator.
+
+![XBEE AT-MODE](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at.jpg)
 
 | ESP-Pin | XBEE-Pin | 
 | :---: | :---: |
