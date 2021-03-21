@@ -109,7 +109,7 @@ This project interfaces two Zigbee (XBEE) modules for communication purposes bet
 
 **AT-modus**
 
-Om de twee XBEE-modules te testen is een ESP32 in combinatie met een Notebook met XCTU gebruikt. De aangesloten XBEE-module op de laptop is geconfigureerd als End-device, terwijl de module verbonden met de ESP als Coordinator kan functioneren. 
+To test the two XBEE-modules an ESP32 has been used, combined with a notebook with XCTU installed. The XBEE-module connected to the notebook was configured as End-device, while the module connected to the ESP32 was set to function as coordinator.
 
 | ESP-Pin | XBEE-Pin | 
 | :---: | :---: |
