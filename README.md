@@ -109,9 +109,12 @@ This project interfaces two Zigbee (XBEE) modules for communication purposes bet
 
 **AT-mode**
 
+![XBEE AT-MODE](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at.jpg)
+
 To test the two XBEE-modules an ESP32 has been used, combined with a notebook with XCTU installed. The XBEE-module connected to the notebook was configured as End-device, while the module connected to the ESP32 was set to function as coordinator.
 
-![XBEE AT-MODE](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at.jpg)
+![Enddevice](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_enddevice.png)
+![Coordinator](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_coordinator.png)
 
 | ESP-Pin | XBEE-Pin | 
 | :---: | :---: |
@@ -119,3 +122,5 @@ To test the two XBEE-modules an ESP32 has been used, combined with a notebook wi
 | 3.3V | VCC |
 | RX | DOUT |
 | TX | DIN | 
+
+![Result](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at_communication.png)
