@@ -106,3 +106,14 @@ The following digital pins have been connected from the ESP32 to LED and buttons
 **Project Overview**
 
 This project interfaces two Zigbee (XBEE) modules for communication purposes between hardware setups (multiple ESP's, for example).
+
+**AT-modus**
+
+Om de twee XBEE-modules te testen is een ESP32 in combinatie met een Notebook met XCTU gebruikt. De aangesloten XBEE-module op de laptop is geconfigureerd als End-device, terwijl de module verbonden met de ESP als Coordinator kan functioneren. 
+
+| ESP-Pin | XBEE-Pin | 
+| :---: | :---: |
+| GND | VSS |
+| 3.3V | VCC |
+| RX | DOUT |
+| TX | DIN | 
