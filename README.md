@@ -128,3 +128,6 @@ The XCTU-configuration for, respectively, the end-device and coordinator looks l
 After uploading the sketch the functionality can be demonstrated by sending a simple message string from the coordinator, which is being received on the XBEE-module configured as end-device.
 
 ![Result](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at_communication.png)
+
+**Command-mode**
+
