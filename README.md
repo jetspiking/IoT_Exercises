@@ -145,15 +145,16 @@ The Xbee-module(s) can also be operated from Command Mode. This allows more adva
 | Diagnostic Commands |
 | Command Mode Options |
 
-Each section contains various commands.  
+Each section contains various commands. Commands can be sorted by section: 
 
-| Commands Sorted By Section | 
+**Special Commands**
 | :---: |
-| **Special Commands** |
 | WR (Write) |
 | RE (Restore Defaults) |
 | FR (Software Reset) |
-| **Networking and Security Commands** |
+
+**Networking and Security Commands**
+| :---: |
 | C8 (802.15.4 Compatibility) |
 | CH (Operation Channel) |
 | ID (Network ID) |
