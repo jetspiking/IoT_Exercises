@@ -184,12 +184,33 @@ Each section contains various commands. Commands can be sorted by section:
 | KY (AES Encryption Key) |
 | NI (Node Identifier) |
 | NP (Maximum Packet Payload Bytes) |
-| **RF Interfacing Commands** |
-| **Sleep Commands** |
-| **Serial Interfacing Commands** |
-| **I/O Settings Commands** |
-| **I/O Line Passing Commands** |
-| **Diagnostic Commands** |
-| **Command Mode Options** |
 
+**RF Interfacing Commands**
+| :---: |
+|  |
+
+**Sleep Commands**
+| :---: |
+|  |
+
+
+**Serial Interfacing Commands**
+| :---: |
+|  |
+
+**I/O Settings Commands**
+| :---: |
+|  |
+
+**I/O Line Passing Commands**
+| :---: |
+|  |
+
+**Diagnostic Commands**
+| :---: |
+|  |
+
+**Command Mode Options**
+| :---: |
+|  |
 
