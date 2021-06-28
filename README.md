@@ -187,30 +187,83 @@ Each section contains various commands. Commands can be sorted by section:
 
 **RF Interfacing Commands**
 | :---: |
-|  |
+| PL (TX Power Level) |
+| PM (Power Mode) |
+| CA (CCA Threshold) |
 
 **Sleep Commands**
 | :---: |
-|  |
-
+| SM (Sleep Mode) |
+| ST (Time Before Sleep) |
+| SP (Cyclic Sleep Period) |
+| DP (Disassociated Cyclic Sleep Period) |
+| SO (Sleep Options) |
 
 **Serial Interfacing Commands**
 | :---: |
-|  |
+| BD (Interface Data Rate) |
+| NB (Parity) |
+| RO (Packetization Timeout) |
+| D7 (DIO7/CTS) |
+| D6 (DIO6/RTS) |
+| AP (API Enable) |
 
 **I/O Settings Commands**
 | :---: |
-|  |
+| D0 (DIO0/AD0) |
+| D1 (DIO1/AD1) |
+| D2 (DIO2/AD2) |
+| D3 (DIO3/AD3) |
+| D4 (DIO4) |
+| D5 (DIO5) |
+| D8 (DIO8) |
+| P0 (PWM0) |
+| P1 (PWM1) |
+| P2 (SPI) |
+| M0 (PWM Duty Cycle) |
+| M1 (PWM Duty Cycle) |
+| P5 (SPI_MISO) |
+| P6 (SPI_MOSI) |
+| P7 (SPI_SSEL) |
+| P8 (SPI_SCLK) |
+| P9 (SPI_ATTN) |
+| PR (Pull-up/Down Resistor Enable) |
+| PD (Pull-up/Down Direction |
+| IU (I/O Output Enable) |
+| IT (Samples before TX) |
+| IS (Force Sample) |
+| IO (Digital Output Level) |
+| IC (DIO Change Detect) |
+| IR (Sample Rate) |
+| RP (RSSI PWM Timer) |
 
 **I/O Line Passing Commands**
 | :---: |
-|  |
+| IA (I/O Input Address) |
+| T0 (D0 Timeout) |
+| T1 (D1 Output Timeout) |
+| T2 (D2 Output Timeout) |
+| T3 (D3 Output Timeout) |
+| T4 (D4 Output Timeout) |
+| T5 (D5 Output Timeout) |
+| T6 (D6 Output Timeout) |
+| T7 (D7 Output Timeout) |
+| PT (PWM Output Timeout) |
 
 **Diagnostic Commands**
 | :---: |
-|  |
+| VR (Firmware Version) |
+| VL (Version Long) |
+| HV (Hardware Version) |
+| DB (Last Packet RSSI) |
+| EC (CCA Failures) |
+| EA (ACK Failures) |
+| DD (Device Type Identifier) |
 
 **Command Mode Options**
 | :---: |
-|  |
-
+| CT (Command Mode Timeout) |
+| CN (Exit Command Mode) |
+| AC (Apply Changes) |
+| GT (Guard Times) |
+| CC (Command Character) |
