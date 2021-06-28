@@ -147,3 +147,48 @@ The Xbee-module(s) can also be operated from Command Mode. This allows more adva
 
 Each section contains various commands.  
 
+| Commands Sorted By Section | 
+| :---: |
+| **Special Commands** |
+| WR (Write) |
+| RE (Restore Defaults) |
+| FR (Software Reset) |
+| **Networking and Security Commands** |
+| C8 (802.15.4 Compatibility) |
+| CH (Operation Channel) |
+| ID (Network ID) |
+| DH (Destination Address High) |
+| DL (Destination Address Low) |
+| MY (Source Address) |
+| SH (Serial Number High) |
+| SL (Serial Number Low) |
+| MM (MAC Mode) |
+| RR (Xbee Retries) |
+| RN (Random Delay Slots) |
+| ND (Network Discovery) |
+| NT (Node Discover Timeout) |
+| NO (Node Discovery Options) |
+| DN (Discover Node) |
+| CE (Coordinator Enable) |
+| SC (Scan Channels) |
+| SD (Scan Duration) |
+| A1 (End Device Association) |
+| A2 (Coordinator Association) |
+| AI (Association Indication) |
+| DA (Force Disassociation) |
+| FP (Force Poll) |
+| AS (Active Scan) |
+| ED (Energy Detect) |
+| EE (Encryption Enable) |
+| KY (AES Encryption Key) |
+| NI (Node Identifier) |
+| NP (Maximum Packet Payload Bytes) |
+| **RF Interfacing Commands** |
+| **Sleep Commands** |
+| **Serial Interfacing Commands** |
+| **I/O Settings Commands** |
+| **I/O Line Passing Commands** |
+| **Diagnostic Commands** |
+| **Command Mode Options** |
+
+
