@@ -130,6 +130,7 @@ After uploading the sketch the functionality can be demonstrated by sending a si
 ![Result](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at_communication.png)
 
 **Command-mode**
+
 The Xbee-module(s) can also be operated from Command Mode. This allows more advances configuration and other actions to be performed. These can be grouped in a few categories.
 
 | Categories | 
