@@ -130,4 +130,19 @@ After uploading the sketch the functionality can be demonstrated by sending a si
 ![Result](https://github.com/jetspiking/IoT_Exercises/blob/main/XBEE_At/xbee_at_communication.png)
 
 **Command-mode**
+The Xbee-module(s) can also be operated from Command Mode. This allows more advances configuration and other actions to be performed. These can be grouped in a few categories.
+
+| Categories | 
+| :---: |
+| Special Commands |
+| Networking and Security Commands |
+| RF Interfacing Commands |
+| Sleep Commands |
+| Serial Interfacing Commands |
+| I/O Settings Commands |
+| I/O Line Passing Commands |
+| Diagnostic Commands |
+| Command Mode Options |
+
+Each section contains various commands.  
 
